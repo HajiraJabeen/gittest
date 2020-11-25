@@ -1,2 +1,3 @@
 #heading
-##heading 2
+##heading2
+lets add **bold** and -italics- 
